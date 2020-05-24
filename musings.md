@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Causal Determinism</h3>
 				</header>
-				<p>Causal determinism is the idea that every event is necessitated by antecedent events together with the laws of nature. Although the idea of determinism is ancient, it became a topic of mathematical analysis as recently as the Eighteenth century. Determinism is deeply connected with our understanding of the sciences on one hand and our views on free though and actions on the other. In both these cases there is no agreement on if determinism is true (or if we will ever know it to be true), for that matter, it’s significance in either case.</p>
+				<p>Causal determinism is the idea that every event is necessitated by antecedent events and conditions together with the laws of nature. The idea of determinism is ancient, however, it gained prominence in the 18th century which lead to a lot of mathematical analysis. Determinism in essence is deeply connected with our understanding of the world through the lens of the physical sciences and their explanatory ambitions on the one hand and the philosophical question of free will on the other. In both these general areas, there is no consensus on if the idea of determinism holds true, or of its implications either way. I wanted to explore the idea of determinism in detail.</p>
 				<ul class="actions">
 					<li><a href="causaldeterminism.html" class="button">Read more</a></li>
 				</ul>
