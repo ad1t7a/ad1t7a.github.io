@@ -47,9 +47,9 @@ nav-menu: true
 					<h3>The Trolley Car And The Self-Driving Car</h3>
 				</header>
 				<p>Will be uploaded soon..</p>
-				<ul class="actions">
+				<!--<ul class="actions">
 					<li><a href="generic.html" class="button">Read more</a></li>
-				</ul>
+				</ul>-->
 			</div>
 		</div>
 	</section>
@@ -63,9 +63,9 @@ nav-menu: true
 					<h3>The Challenge Of Nuclear Proliferation</h3>
 				</header>
 				<p>Will be uploaded soon..</p>
-				<ul class="actions">
+				<!--<ul class="actions">
 					<li><a href="generic.html" class="button">Read more</a></li>
-				</ul>
+				</ul>-->
 			</div>
 		</div>
 	</section>
@@ -78,9 +78,9 @@ nav-menu: true
 			<h2>A Terrible Introduction To Robotics</h2>
 		</header>
 		<p>Will be uploaded soon..</p>
-		<ul class="actions">
+		<!--<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
+		</ul>-->
 	</div>
 </section>
 
