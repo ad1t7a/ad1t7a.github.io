@@ -1,8 +1,8 @@
 ---
 title: Musings
 layout: musings
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'Attempting to fire up my synapses<br />one post at a time'
+image: assets/images/goldengate.jpg
 nav-menu: true
 ---
 
